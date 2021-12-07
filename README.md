@@ -1,16 +1,19 @@
-# To run the app just run 
-`python app.py`
+Step-1: To run the Application just run -> python app.py
 
 
-# For Running the tests 
-# you might have to install pytest for running the test
-# do `pip install pytest` for installing pytest
-`python -m pytest test.py`
 
-# Dependencies
+Step-2: For Running the tests
+-> we need  to install pytest for running the Application
+ Intsalliation Process :
+From the terminal just type :
+pip install pytest for installing pytest
+Later run this command :
+python -m pytest test.py
 
-- python 3.6.4
-- pytest(latest)
+Required  Dependencies for the Application :
+-> python and pytest (Latest Version )
+
+
 
 
 
